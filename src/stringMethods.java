@@ -5,7 +5,9 @@ public class stringMethods {
 
     public static void main(String[] args){
         //public String replace(String old, String new)
-        //the replace method replaces all instances of String old in a String with String new
+        //the replace method replaces all instances of String old in a String with String new,
+        //then returns the new string
+
         //example
         String s = "test1234test";
         String s2 = s.replace("test", "...");
